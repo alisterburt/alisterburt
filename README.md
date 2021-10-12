@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<head>
-<meta charset="UTF-8">
-</head>
-<html>
+
 <body>
-    <code>
-        <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙃 <a href="https://github.com/alisterburt">Alister Burt</a>                                                                                     
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙃 <a href="https://github.com/alisterburt">Alister Burt</a>                                                                                     
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🔬 Research Interests                                                                           
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001319">cryo-electron tomography</a></span> - <span style="color: #808080; text-decoration-color: #808080">enabling in situ protein structure determination</span>                 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://www.nature.com/articles/s41467-020-14350-9">bacterial chemotaxis</a></span> - <span style="color: #808080; text-decoration-color: #808080">how bacteria sense and respond to nutrients/toxins</span>                   
@@ -32,7 +27,5 @@
 <span style="color: #808080; text-decoration-color: #808080">        ┗━━ </span><span style="font-weight: bold"><a href="https://www.ibs.fr/?lang=en">Institut de Biologie Structurale</a></span> - <span style="color: #808080; text-decoration-color: #808080">PhD student in Irina Gutsche&#x27;s group</span>                 
 
 <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/AlisterBurt">@AlisterBurt</a></span>
-</pre>
-    </code>
 </body>
 </html>
